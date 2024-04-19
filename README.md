@@ -1,4 +1,6 @@
+RANDOM COLOR
 
+Cada vez que se presione el boton, el programa va a generar un color NUEVO mostrando su codigo por si deseas utilizarlo.
 
 
 
